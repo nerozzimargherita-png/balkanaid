@@ -1,16 +1,18 @@
 # BalkanAid
 
 App Android per chi è in transito sulla rotta balcanica: dove trovare un medico, un posto per dormire, un'associazione o un aiuto legale, anche senza connessione.
-
 Il codice è in un repository privato. Qui trovi una panoramica del progetto e il link al prototipo.
 
 ### Perché
 
 Chi attraversa i Balcani spesso non ha internet, non parla la lingua del posto e usa poco le app. Le informazioni utili esistono, ma sono sparse e difficili da trovare. BalkanAid prova a metterle in un unico posto, consultabile offline e in inglese, arabo e (a breve) farsi.
 
+
 ### Ricerca
 
-Prima di progettare ho condotto una serie di interviste qualitative insieme a una dottoranda in antropologia. Da lì sono venute molte scelte: contenuti, lingue, un'interfaccia essenziale con icone al posto del testo dove possibile, e attenzione alla privacy.
+Prima di progettare ho svolto una ricerca in due parti, in collaborazione con una dottoranda in antropologia.
+La parte qualitativa è composta da interviste approfondite, di almeno un'ora ciascuna, a presidenti di associazioni umanitarie attive sulla rotta balcanica e a migranti. La parte quantitativa è un questionario online, diffuso tra persone che avevano già percorso la rotta.
+Da questo lavoro sono derivate molte scelte del progetto: i contenuti, le lingue, un'interfaccia essenziale con icone al posto del testo dove possibile, e l'attenzione alla privacy.
 
 ### Funzionalità
 
