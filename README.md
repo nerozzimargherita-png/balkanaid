@@ -34,18 +34,7 @@ La fase di ricerca è stata svolta in collaborazione con una dottoranda in antro
 
 ## Design
 
-Prototipo e interfacce progettati in Figma: [apri il prototipo](INSERISCI-LINK-FIGMA)
-
-Alcune scelte di design hanno una valenza etica diretta: la privacy e la sicurezza degli utenti vengono prima della completezza delle informazioni.
-
-**Palette**
-
-| Ruolo | Colore |
-|---|---|
-| Primario | `#002455` |
-| Secondario | `#6A994E` |
-| Accento | `#A7C957` |
-| Emergenza | `#BC4749` |
+Prototipo e interfacce progettati in Figma: [(Link Figma)](https://www.figma.com/design/irABRiS6epvZDJeTblttPh/BalkanAid---Wireframe-v1?node-id=0-1&t=QI0wt2pvcrtbfeUv-1)
 
 ## Tecnologie
 
@@ -67,6 +56,4 @@ Alcune scelte di design hanno una valenza etica diretta: la privacy e la sicurez
 
 Progetto personale. Ho curato UX/UI, prototipazione in Figma e sviluppo, e ho condotto la ricerca con interviste insieme a una dottoranda in antropologia. Tutte le decisioni su priorità, esperienza utente e dati sono mie.
 
----
 
-Margherita · [contatti](INSERISCI-LINK-O-EMAIL)
